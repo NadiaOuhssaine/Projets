@@ -1,2 +1,2 @@
-## Projets
-Vous trouverez ici des projets réalisés dans le cadre de mon master en Ingénierie Mathématique.
+## Projet
+Vous trouverez ici des projets réalisés dans le cadre de mon MASTER en Ingénierie Mathématique.
